@@ -1,4 +1,4 @@
-# SpellitOut - Android App ![Build status](https://github.com/wallabag/android-app/workflows/CI/badge.svg?branch=master)
+# Spellcorp - Preppr ![Build status](https://github.com/wallabag/android-app/workflows/CI/badge.svg?branch=master)
 
 # THIS IS A COPIED TEMPLATE THAT I LIKED THE LOOK OF, IT NEEDS TO CHANGE LATER
 
